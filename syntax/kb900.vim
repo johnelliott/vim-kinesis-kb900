@@ -3,7 +3,7 @@
 " URL:      https://github.com/johnelliott/vim-kinesis-kb900.git
 " License:  Unlicense
 " Created:  2019-02-13
-" Modified: 2019-02-13
+" Modified: 2019-02-23
 
 if exists('b:current_syntax')
   finish
