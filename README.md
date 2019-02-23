@@ -6,6 +6,14 @@ Based on Kinesis Advantage2 layout plugin for Vim by Joe Cridge: [https://github
 
 ## Installation
 
+Using [Vim-Plug](https://github.com/junegunn/vim-plug):
+
+Add the GitHub path for this repository to your `~/.vimrc` and run `:PlugInstall`.
+
+```vim
+Plug 'johnelliott/vim-kinesis-kb900'
+```
+
 Using [Pathogen](https://github.com/tpope/vim-pathogen):
 
 ```bash
